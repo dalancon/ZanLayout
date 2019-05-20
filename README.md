@@ -6,6 +6,9 @@
 # 思路：
 自己实现onLayout方法，摆放子控件.
 
+
+# 用法:
+
 ```
 <dalancon.com.zanlayout.widget.ZanLayout
         android:layout_width="wrap_content"
